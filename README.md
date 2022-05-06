@@ -4,7 +4,7 @@ Mechatronics Engineer, passionate about aerospace applications, business and sta
 
 Here you're going to find my studies and data science projects.
 
->> Getting & Cleaning Data: clean data and their codebooks!
+** Getting & Cleaning Data: clean data and their codebooks!
 
 
 
