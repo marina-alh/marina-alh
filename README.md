@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [EDA on air pollutant data](https://github.com/marina-alh/EDA_air_ppllutant_data)
 
-- 🌱 I’m currently learning **R and EDA techniques, MongoDB and kafka**
+- 🌱 I’m currently learning **R and EDA techniques**
 
-- 📫 How to reach me **marinaandradeholanda@gmail.com**
+- 📫 How to reach me **marina.andrade@sanofi.com**
 
 - 📄 Know about my experiences: [Check out my dope resume](https://drive.google.com/file/d/1_3PpsSKFy_pMESHqFqLHsA6TKxL5RVS4/view?usp=share_link)
 
